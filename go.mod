@@ -1,4 +1,4 @@
-module github.com/51ias/win
+module github.com/hex-42/win
 
 go 1.12
 
